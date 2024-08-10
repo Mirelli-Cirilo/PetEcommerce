@@ -1,0 +1,40 @@
+# Build artifacts
+bin/
+obj/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Configuration files
+appsettings.*.json
+appsettings.json
+
+# EF Migrations
+/Migrations
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# npm packages
+node_modules/
+
+# Yarn
+.yarn/
+yarn.lock
+
+# Logs from yarn
+.yarn-integrity
+
+# Windows image file caches
+Thumbs.db
